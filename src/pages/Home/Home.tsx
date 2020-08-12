@@ -1,5 +1,5 @@
-import React from 'react';
 import * as RN from 'react-native';
+import React from 'react';
 
 import styles from './Home.style';
 
