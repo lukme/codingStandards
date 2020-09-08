@@ -13,7 +13,8 @@ const Home = () => {
     <RN.View style={styles.container}>
       <RN.Text
         style={styles.basicText}
-        testID="basic-text">
+        testID="basic-text"
+      >
         {basicText}
         {test.testValue}
       </RN.Text>
